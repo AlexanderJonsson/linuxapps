@@ -1,0 +1,3 @@
+tar xjvf lplinux.tar.bz2
+ ./install_lastpass.sh
+The script will invoke sudo as needed.
